@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+      TeenNumberChecker.hasTeen(12,14,21);
+      TeenNumberChecker.isTeen(12);
     }
 }
